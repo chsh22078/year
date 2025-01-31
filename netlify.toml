@@ -1,0 +1,5 @@
+[build]
+publish = "assets"
+publish = "data"
+publish = "src"
+
